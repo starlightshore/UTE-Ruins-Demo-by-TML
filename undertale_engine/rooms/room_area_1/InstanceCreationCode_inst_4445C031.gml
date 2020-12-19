@@ -1,0 +1,1 @@
+bgm_fade = bgm_ruins;

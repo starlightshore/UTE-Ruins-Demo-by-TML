@@ -1,0 +1,1 @@
+text = "* (The shadow of the ruins&  looms above,{sleep 20} filling you with&  determination.){pause}{clear}* (HP fully restored.)"
