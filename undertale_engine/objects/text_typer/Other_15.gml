@@ -49,4 +49,5 @@ _group_voice[0,0]=snd_text_voice_default;
 _group_voice[1,0]=snd_text_voice_typer;
 
 _group_face[0]=face;
-_group_face[1]=face_flowey;
+_group_face[1]=face_toriel;
+_group_face[2]=face_flowey;

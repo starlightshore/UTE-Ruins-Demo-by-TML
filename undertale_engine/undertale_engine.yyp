@@ -1639,6 +1639,14 @@
             }
         },
         {
+            "Key": "44e6dad8-8a03-48fa-99c6-93e67028f805",
+            "Value": {
+                "id": "15efc268-72e4-4bb1-bdde-76909ec1ddf6",
+                "resourcePath": "sprites\\spr_face_toriel_idle_concern\\spr_face_toriel_idle_concern.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "45825d82-85a0-4398-99d3-52287dc119f2",
             "Value": {
                 "id": "2f532efc-105c-440c-bb31-52647d968730",
@@ -2199,6 +2207,14 @@
             }
         },
         {
+            "Key": "5c4fa609-9139-4fc9-8fa8-93ef2ddf6cb4",
+            "Value": {
+                "id": "f8df65b3-0517-425b-982e-e72b7e71ceee",
+                "resourcePath": "sprites\\spr_face_toriel_idle_happy\\spr_face_toriel_idle_happy.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5c8af508-1c59-4f06-abc8-a0d3b2ef12bf",
             "Value": {
                 "id": "ed88de44-e9dd-4042-9137-64c9c2f0a3f2",
@@ -2660,6 +2676,14 @@
                 "id": "e9a75203-30e8-4db5-8882-2896a43d818a",
                 "resourcePath": "scripts\\Battle_SetMenuChoiceAction\\Battle_SetMenuChoiceAction.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "6ed30d9c-0f30-4696-b532-d42d6b7297d4",
+            "Value": {
+                "id": "2156a13c-6db0-4178-a8d7-6d94cf06b653",
+                "resourcePath": "objects\\face_toriel\\face_toriel.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -4039,6 +4063,14 @@
             }
         },
         {
+            "Key": "a8d80e16-302a-4513-b483-5bfebac247e1",
+            "Value": {
+                "id": "35f8dce2-fc86-4056-9df9-4ad5f13e06dd",
+                "resourcePath": "sprites\\spr_face_toriel_idle_neutral\\spr_face_toriel_idle_neutral.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a90a73ae-9da8-43af-bd8d-4eb6d3a4863a",
             "Value": {
                 "id": "03b84330-4441-4f7d-ab9c-ce7211defa19",
@@ -4164,6 +4196,14 @@
                 "id": "cd9f4c99-8fee-4517-ba18-0d1499ebc93e",
                 "resourcePath": "objects\\battle_enemy\\battle_enemy.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ae92ec5f-b99f-42f7-aa78-ce688877a86b",
+            "Value": {
+                "id": "33f33a37-ff0b-465e-82cb-981c71561011",
+                "resourcePath": "sprites\\spr_face_toriel\\spr_face_toriel.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
