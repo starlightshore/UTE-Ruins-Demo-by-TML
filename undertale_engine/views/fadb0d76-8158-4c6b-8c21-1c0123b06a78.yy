@@ -4,14 +4,13 @@
     "mvc": "1.1",
     "name": "fadb0d76-8158-4c6b-8c21-1c0123b06a78",
     "children": [
-        "b040ecb7-59ed-4bd7-bc76-45365127cc96",
-        "ae92ec5f-b99f-42f7-aa78-ce688877a86b",
-        "a8d80e16-302a-4513-b483-5bfebac247e1",
-        "44e6dad8-8a03-48fa-99c6-93e67028f805",
-        "5c4fa609-9139-4fc9-8fa8-93ef2ddf6cb4"
+        "8efcbf08-53ed-4dea-a19c-c7dbc935b7bd",
+        "381f67dc-29af-4920-bbbd-7394d884bfca",
+        "60f9ecaf-5430-4b1b-a068-6a8d93a098db",
+        "a7781cfc-2794-44c5-bbde-9f3b9681e35a"
     ],
     "filterType": "GMSprite",
-    "folderName": "faces",
+    "folderName": "Faces",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

@@ -1,1 +1,1 @@
-sprite=spr_border_simple;
+sprite=spr_border_ruins;

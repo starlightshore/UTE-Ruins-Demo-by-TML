@@ -1,2 +1,2 @@
-move[0] = 48
-alarm[1] = 48
+move[0] = 52
+alarm[1] = 52

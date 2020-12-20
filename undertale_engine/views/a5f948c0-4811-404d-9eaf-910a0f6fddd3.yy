@@ -10,7 +10,8 @@
         "b94a2d8e-0d4f-4877-82d6-f34648d143a9",
         "8ee9e306-603b-4e25-ae88-50a6ce09633c",
         "87830c40-620d-4b8d-9783-d00f181effd0",
-        "9815a532-1558-4368-9fea-c1be57930f99"
+        "9815a532-1558-4368-9fea-c1be57930f99",
+        "48ae8cf4-be0b-4fc3-982c-b1724f7f090f"
     ],
     "filterType": "GMSprite",
     "folderName": "net_paint",

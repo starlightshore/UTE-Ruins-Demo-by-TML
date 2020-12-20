@@ -1,6 +1,6 @@
 _inst_switch = instance_create_depth(630, 80, 0, char_sign)
 _inst_switch.visible = false
-_inst_switch.text = "{voice 3}{char_link 1}* No no no!{pause}{clear}* You want to press the&  other switch.{pause}{clear}* I even labelled it for&  you..."
+_inst_switch.text = "{voice 3}{{face_emotion 3}* No no no!{pause}{clear}* You want to press the&  other switch.{pause}{clear}* I even labelled it for&  you..."
 if (Flag_Get(0, 33) > 3)
 {
     char_switch.pressed = 1

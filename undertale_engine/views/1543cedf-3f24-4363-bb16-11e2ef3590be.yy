@@ -9,7 +9,8 @@
         "af715e90-b977-45c1-81d8-ee4f0078f229",
         "c85720ad-1509-438f-a67a-49a7b0123940",
         "6fee52a3-12c3-4495-a092-d92a9180e277",
-        "fca8dd74-b540-48be-a074-904fb32bd706"
+        "fca8dd74-b540-48be-a074-904fb32bd706",
+        "e71881ab-ca2d-45fa-9c13-d948d6949383"
     ],
     "filterType": "GMSprite",
     "folderName": "ruins",
