@@ -3583,6 +3583,14 @@
             }
         },
         {
+            "Key": "8f5938b4-4765-4730-8d77-a75724116db3",
+            "Value": {
+                "id": "bfc747b3-5840-447b-bef0-4f2a91f1f3b0",
+                "resourcePath": "objects\\trigger_flowey_leave\\trigger_flowey_leave.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8f878b6b-b79b-4cc4-9495-4179f984c1b8",
             "Value": {
                 "id": "31aa6847-1a96-4993-8b55-19cf49c60113",
