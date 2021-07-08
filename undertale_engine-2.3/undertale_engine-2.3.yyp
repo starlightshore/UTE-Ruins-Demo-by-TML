@@ -360,6 +360,7 @@
     {"id":{"name":"Lang_GetFont","path":"scripts/Lang_GetFont/Lang_GetFont.yy",},"order":27,},
     {"id":{"name":"Lang_ClearList","path":"scripts/Lang_ClearList/Lang_ClearList.yy",},"order":29,},
     {"id":{"name":"Lang_ClearString","path":"scripts/Lang_ClearString/Lang_ClearString.yy",},"order":31,},
+    {"id":{"name":"Sprite151","path":"sprites/Sprite151/Sprite151.yy",},"order":50,},
     {"id":{"name":"Lang_ClearSprite","path":"scripts/Lang_ClearSprite/Lang_ClearSprite.yy",},"order":33,},
     {"id":{"name":"Lang_ClearFont","path":"scripts/Lang_ClearFont/Lang_ClearFont.yy",},"order":35,},
     {"id":{"name":"Lang_IsExists","path":"scripts/Lang_IsExists/Lang_IsExists.yy",},"order":37,},
