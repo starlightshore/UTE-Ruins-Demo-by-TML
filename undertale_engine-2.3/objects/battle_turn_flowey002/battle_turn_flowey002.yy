@@ -4,7 +4,10 @@
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "battle_turn",
+    "path": "objects/battle_turn/battle_turn.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
