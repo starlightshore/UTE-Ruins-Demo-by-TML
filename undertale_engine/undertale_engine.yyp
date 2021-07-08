@@ -2951,6 +2951,14 @@
             }
         },
         {
+            "Key": "783a06e3-e87f-4306-9ad9-e77e7617bfab",
+            "Value": {
+                "id": "e576c3de-0517-440e-bf78-198e359c19d6",
+                "resourcePath": "rooms\\room_Flowey_Battle_Test_Room\\room_Flowey_Battle_Test_Room.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "784ce4fe-7afb-474a-906e-cda2559e1961",
             "Value": {
                 "id": "9cc88d14-49e3-46e9-88d8-d9be1a21685d",
@@ -4780,6 +4788,14 @@
                 "id": "7021252b-a948-43ee-aa73-66c949b909ea",
                 "resourcePath": "scripts\\Macro_Phone\\Macro_Phone.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "c39a6378-a2d1-4ed9-93c9-d15c89aa89c2",
+            "Value": {
+                "id": "ace73d5f-47c3-499b-8dd5-4b1aab02b3af",
+                "resourcePath": "objects\\battle_enemy_flowey\\battle_enemy_flowey.yy",
+                "resourceType": "GMObject"
             }
         },
         {

@@ -27,3 +27,5 @@ Flag_Set(FLAG_TYPE.TEMP,FLAG_TEMP.TEXT_TYPER_CHOICE,-1);
 Item_SetWeapon(item_stick);
 Item_SetArmor(item_bandage);
 Item_Add(item_tml);
+
+#macro FL "{voice 2}{face 2}";

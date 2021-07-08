@@ -1,0 +1,1 @@
+text = "* \"Press [Z] to read signs!\""
