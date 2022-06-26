@@ -47,11 +47,12 @@ talk_speed[0]=0;
 
 //0 Blink Happy
 idle_sprite[0]=spr_face_toriel_idle_happy;
-idle_image[0]=0;
-idle_speed[0]=0.3;
+ idle_image[0]=0;
+ idle_speed[0]=0.3;
+ 
 talk_sprite[0]=spr_face_toriel_talk_happy;
-talk_image[0]=0;
-talk_speed[0]=0.5;
+ talk_image[0]=0;
+ talk_speed[0]=0.5;
 
 //1 Blink Neutral
 idle_sprite[1]=spr_face_toriel_idle_neutral;

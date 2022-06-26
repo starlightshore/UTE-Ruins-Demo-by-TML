@@ -13,6 +13,7 @@ image_yscale=2;
 idle_sprite[0]=-1;
 idle_image[0]=0;
 idle_speed[0]=0;
+
 talk_sprite[0]=-1;
 talk_image[0]=1;
 talk_speed[0]=1/2;

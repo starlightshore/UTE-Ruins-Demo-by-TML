@@ -1,7 +1,7 @@
 draw_self();
-/*
+
 {
-	if(keyboard_check(vk_enter)){
+	if(debug_mode){
 		draw_set_color(c_red);
 		if(dir==DIR.UP){
 			draw_rectangle(x-sprite_width/2+4,y-5,x+sprite_width/2-4,y-sprite_height+5,true);
@@ -17,4 +17,3 @@ draw_self();
 		}
 	}
 }
-*/

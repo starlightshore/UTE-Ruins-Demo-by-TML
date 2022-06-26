@@ -4,7 +4,7 @@ if (_state == 2)
     if (!_talked)
         Dialog_Add("{voice 3}{{face_emotion 1}* The first switch is over&  on the wall.")
     else
-        Dialog_Add("{voice 3}{face_emotion 1}* Do you need some help..?{sleep 20}&* Press the switch on the   wall.{pause}{clear}* Come on,{sleep 20} you can do it!")
+        Dialog_Add("{voice 3}{face_emotion 1}* Do you need some help...?{sleep 20}&* Press the switch on the wall.{pause}{clear}* Come on,{sleep 20} you can do it!")
     Dialog_Start()
     _talked = 1
 }

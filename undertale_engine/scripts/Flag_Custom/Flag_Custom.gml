@@ -28,4 +28,5 @@ Item_SetWeapon(item_stick);
 Item_SetArmor(item_bandage);
 Item_Add(item_tml);
 
-#macro FL "{voice 2}{face 2}";
+//Macro Prefix: add commands for certain characters
+#macro FL "{voice 2}{face 2}" //fl = flowey

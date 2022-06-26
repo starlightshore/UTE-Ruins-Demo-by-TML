@@ -5,6 +5,7 @@
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": {
     "name": "spr_char_toriel_mask_0",
     "path": "sprites/spr_char_toriel_mask_0/spr_char_toriel_mask_0.yy",

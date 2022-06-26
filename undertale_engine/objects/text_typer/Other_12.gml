@@ -191,7 +191,7 @@ switch(cmd[|0]){
 		_sleep=0;
 		_char_frame_remain=0;
 		break;
-		
+	
 	case "instant":
 		if(is_real(cmd[|1])){
 			_instant=bool(cmd[|1]);

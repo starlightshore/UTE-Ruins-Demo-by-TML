@@ -75,3 +75,4 @@ override_color_text[1]=c_white;
 override_color_text[2]=c_white;
 override_color_text[3]=c_white;
 
+//text = string_replace(text, "{end_sentence}", "{pause}{clear}");

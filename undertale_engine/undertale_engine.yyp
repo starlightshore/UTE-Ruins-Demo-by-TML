@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "05b62cf0-431c-40e3-8e5e-d3e9a0996a56",
+            "Value": {
+                "id": "04b29f3c-3424-4417-99bf-f9bb40b4da0f",
+                "resourcePath": "scripts\\Dialog_Add_Array\\Dialog_Add_Array.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "05dc1ca4-60ff-42fb-b3de-4611baad1f68",
             "Value": {
                 "id": "85536c63-95d2-461e-9bd4-5962dea628d7",
@@ -2951,6 +2959,14 @@
             }
         },
         {
+            "Key": "77c3bc0e-961f-446d-a5e0-0126087c5dcc",
+            "Value": {
+                "id": "5c0dfda6-b122-4630-9846-9b894abfab2f",
+                "resourcePath": "datafiles_yy\\text_additions.yymp.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "783a06e3-e87f-4306-9ad9-e77e7617bfab",
             "Value": {
                 "id": "e576c3de-0517-440e-bf78-198e359c19d6",
@@ -5071,6 +5087,14 @@
             }
         },
         {
+            "Key": "cae78afa-32af-466e-b307-c384198df434",
+            "Value": {
+                "id": "f0fb00d0-b9a9-4bfc-b81c-975712f0764e",
+                "resourcePath": "objects\\obj_example_text_array\\obj_example_text_array.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cb0c5a94-cf09-46a7-8e2a-89417580a365",
             "Value": {
                 "id": "7788058b-f667-42e0-a748-846d88285506",
@@ -5716,6 +5740,14 @@
                 "id": "6322ff33-d213-44c3-b1ec-6ed190fb525e",
                 "resourcePath": "scripts\\Dialog_Add\\Dialog_Add.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "e7dd3e1b-9c0c-4752-ac7e-7a466bd573a5",
+            "Value": {
+                "id": "d2004cc6-3291-4443-b4aa-61ab9e52f16a",
+                "resourcePath": "datafiles_yy\\anim_more.yymp.yy",
+                "resourceType": "GMIncludedFile"
             }
         },
         {
@@ -6477,6 +6509,7 @@
         "e01eb94e-f235-4b4d-aa5b-44f7d02e719d",
         "e526640a-919f-4e19-8ec3-a70d0936e485",
         "e78f6959-d050-41cd-9dc1-f56ddc90f64b",
+        "05b62cf0-431c-40e3-8e5e-d3e9a0996a56",
         "78fcf92f-89da-4a1d-b117-1e443277558b",
         "3805bc05-9d2b-48e2-a860-a150a092bbfc",
         "e0d122da-d8a2-4f9e-9bbe-64cf1583ccec",
